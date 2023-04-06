@@ -16,8 +16,12 @@
 #### EL FAMOSO CONSOLE.LOG
 
 #### ARRAYS
-[array methods cheatsheet](https://medium.com/@mandeepkaur1/a-list-of-javascript-array-methods-145d09dd19a0)
+
 
 #### ARRAY PROPERTIES AND METHODS
- 
-git
+ [array methods cheatsheet](https://medium.com/@mandeepkaur1/a-list-of-javascript-array-methods-145d09dd19a0)
+
+ ###### Here's the list of array methods that are most used by the programming comunity
+
+ #### OBJECTS
+  

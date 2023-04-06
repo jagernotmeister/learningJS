@@ -60,11 +60,11 @@ const fruits = ["raspberries", "grapes", "tuvieja"]
 
 console.log(fruits)
  
-when we want a single string from our aaray we call it with brackets and the number of the position of the string in the array that
+// when we want a single string from our aaray we call it with brackets and the number of the position of the string in the array that
 
-another method is push()
+// another method is push()
 
-we want to add one more string to the array fruits so we use push()
+// we want to add one more string to the array fruits so we use push()
 
 fruits.push('mangos') 
 //and this is how we add an string at the end into an array using push method
@@ -72,3 +72,14 @@ fruits.push('mangos')
 fruits.unshift('pears')
 // and then the string pears will appear in the beginning of the array
 // arrays are zero base that mmeans that index starts from 0 to infinite
+
+// OBJECTS
+ const person = {
+    firstName: 'John',
+    lastName: 'Doe',
+    age: 34,
+    hobbies: ['bikes','djing', 'animals']
+    
+ }
+ 
+ console.log(`tu vieja es `)
