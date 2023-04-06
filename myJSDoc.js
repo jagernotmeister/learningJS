@@ -49,4 +49,26 @@ toUpperCase() method :: method can be assigned to a variable or object callign t
 
 console.log(s.toLowerCase()) this method gives me the string in lower case 
 
+//arrays are variables that hoplds multiple values
 
+//tyhis is the way that nobody uses
+
+const numbers = new array(1,2,3,4)
+
+// this is the way that everybody uses them
+const fruits = ["raspberries", "grapes", "tuvieja"]
+
+console.log(fruits)
+ 
+when we want a single string from our aaray we call it with brackets and the number of the position of the string in the array that
+
+another method is push()
+
+we want to add one more string to the array fruits so we use push()
+
+fruits.push('mangos') 
+//and this is how we add an string at the end into an array using push method
+// to add a string at the beginning of the array we use the method unshift
+fruits.unshift('pears')
+// and then the string pears will appear in the beginning of the array
+// arrays are zero base that mmeans that index starts from 0 to infinite
